@@ -26,6 +26,23 @@ python cli.py --symbol BTCUSDT --side BUY --type MARKET --quantity 0.001
 ```bash
 python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.001 --price 60000
 ```
+# Screenshots
+
+## Market Order
+
+![Market Order](screenshots/market_order.png)
+
+## Limit Order
+
+![Limit Order](screenshots/limit_order.png)
+
+## Logs
+
+![Logs](screenshots/logs.png)
+
+## Futures Orders
+
+![Futures Orders](screenshots/futures_orders.png)
 
 ## Tech Stack
 - Python
