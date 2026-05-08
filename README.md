@@ -44,6 +44,10 @@ python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.001 --price
 
 ![Futures Orders](screenshots/binance_orders.png)
 
+## Project Structure
+
+![Project Structure](screenshots/project_structure.png)
+
 ## Tech Stack
 - Python
 - python-binance
